@@ -4,7 +4,6 @@ from app.pdf_utils import extract_text_from_pdf
 from app.chat_utils import get_chat_model_response, ask_chat_model
 from app.vectorstore_utils import create_faiss_index, retrieve_similar_docs
 from app.config import api_key
-from langchain.text_splitter import RecursiveCharacterTextSplitter
 import time
 
 st.set_page_config(
