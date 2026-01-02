@@ -2,7 +2,7 @@ streamlit
 fpdf
 pypdf
 faiss-cpu
-langchain
-euriai 
+langchain>=1.0.0,<1.2.0
+euriai
 langchain_community
 sentence-transformers
