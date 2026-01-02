@@ -2,7 +2,7 @@
 
 **Stop guessing. Start hiring smarter.**
 
-Your AI-powered assistant that **reads, understands, and evaluates resumes in seconds**—matching candidates to job descriptions with precision. Built for **recruiters, HR teams, and hiring managers** who want speed, accuracy, and actionable insights.
+Your AI-powered assistant that **reads, understands, and evaluates resumes in seconds** matching candidates to job descriptions with precision. Built for **candidates applying for jobs, recruiters, HR teams, and hiring managers** who want speed, accuracy, and actionable insights.
 
 ---
 
