@@ -1,3 +1,8 @@
+
+https://github.com/user-attachments/assets/6834c855-5aa4-4fe6-8c86-d138ad43a594
+
+
+
 # 🤖 AI Resume Analyzer Assistant
 
 **Stop guessing. Start hiring smarter.**
